@@ -1,14 +1,22 @@
 # This is project named YourTee where you can build you own customisable T-Shirts
-Confused about the T-shirt pattern do not worry ask AI and the power of DALLE AI will help you out to make a T-Shirt for you
+Confused about the T-shirt pattern do not worry ask AI and the power of DALLE AI will help you out to make a T-Shirt for you.
+
 Experience the power of Three.js in it's full glory.
 
 
 
-To run the project on your local environment 
-use npm i to install dependencies
-generate a new OPENAI_API_KEY creating a dotenv file
-use npm run dev to start the Client 
-use npm start to start the server
+
+
+
+To run the project on your local environment -
+
+  use "npm i" to install dependencies.
+
+  generate a new "OPENAI_API_KEY" creating a dotenv file
+
+use "npm run dev" to start the Client 
+
+use "npm start" to start the server
 
 
 
