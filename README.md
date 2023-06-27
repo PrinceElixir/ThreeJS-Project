@@ -10,9 +10,9 @@ Experience the power of Three.js in it's full glory.
 
 To run the project on your local environment -
 
-  use "npm i" to install dependencies.
+  use "npm i" to install dependencies
 
-  generate a new "OPENAI_API_KEY" creating a dotenv file
+  generate a new "OPENAI_API_KEY" creating a dotenv file to use the power of AI
 
 use "npm run dev" to start the Client 
 
